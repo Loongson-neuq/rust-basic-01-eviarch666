@@ -1,0 +1,6 @@
+[package]
+name = "rust-basic-01-eviarch666"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
